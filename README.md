@@ -2,5 +2,8 @@ Imperial Bot is a fully functional discord bot that can help you utilize and man
 
 Prefix: !
 
+Contact me @ discord:
+DamnSmurf#5218
+
 Our Server:
 https://discord.gg/tVjCzDDNhY
