@@ -6,5 +6,6 @@ Prefix: !
 
 Contact me @ discord:
 DamnSmurf#5218
+
 Our Server:
 https://discord.gg/tVjCzDDNhY
